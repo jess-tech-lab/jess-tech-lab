@@ -14,12 +14,8 @@ Architecting resilient systems for intentional impact
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jess-tech-lab&theme=everforest-light&hide_border=true&border_radius=4&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-
-
-
 <div align="center">
   <br>
   <!-- GitHub Streak & Longest Streak Card (Matches Screenshot) -->
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jess-tech-lab&theme=everforest-light&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=jess-tech-lab&theme=everforest-light&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
 </div>
