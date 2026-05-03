@@ -7,10 +7,10 @@ Architecting resilient systems for intentional impact
 ---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jess-tech-lab&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000&icon_color=70af70&text_color=9ece6a&title_color=73daca" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jess-tech-lab&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&icon_color=70af70&text_color=9ece6a&title_color=73daca" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jess-tech-lab&show_icons=true&count_private=true&theme=everforest&hide_border=true&hide=issues,contribs&bg_color=1e2326&icon_color=a7c080&text_color=d3c6aa&title_color=83c092" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jess-tech-lab&layout=compact&hide_border=true&theme=everforest&bg_color=1e2326&langs_count=6&hide=jupyter%20notebook,tex,css,php&icon_color=a7c080&text_color=d3c6aa&title_color=83c092" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jess-tech-lab&theme=tokyonight&hide_border=true&background=FFFFFF00&sideNums=70af70&currStreakNum=9ece6a&fire=70af70" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jess-tech-lab&theme=everforest&hide_border=true&background=1e2326&sideNums=a7c080&currStreakNum=d3c6aa&fire=e67e80" alt="GitHub Streak" />
 </p>
