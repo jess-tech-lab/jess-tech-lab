@@ -8,5 +8,5 @@ Architecting resilient systems for intentional impact
 <div align="center">
   <br>
   <!-- GitHub Streak & Longest Streak Card (Matches Screenshot) -->
-  <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=jess-tech-lab&theme=everforest-light&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+  <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=jess-tech-lab&theme=everforest-light&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
 </div>
