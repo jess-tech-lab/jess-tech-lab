@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey 👋 I'm Jessi
 
-<!--
-**jess-tech-lab/jess-tech-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Architecting resilient systems for intentional impact
 
-Here are some ideas to get you started:
+* 💫 Interested in scalable backend infrastructure, contextual AI, and cybersecurity
+* 🌱 Currently debugging 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jess-tech-lab&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000&icon_color=70af70&text_color=9ece6a&title_color=73daca" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jess-tech-lab&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&icon_color=70af70&text_color=9ece6a&title_color=73daca" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jess-tech-lab&theme=tokyonight&hide_border=true&background=FFFFFF00&sideNums=70af70&currStreakNum=9ece6a&fire=70af70" />
+</p>
