@@ -3,7 +3,7 @@
 Architecting resilient systems for intentional impact
 
 * 💫 Interested in scalable backend infrastructure, contextual AI, and cybersecurity
-* 🌱 Currently debugging 
+* 🌱 Currently orchestrating... 
 
 <div align="center">
   <br>
